@@ -2,6 +2,9 @@
 
 Tree-sitter injections for SQL embedded in code strings marked with `--sql`.
 
+<img width="171" height="347" alt="Comparison between two strings, one with syntax highlighting and one without" src="https://github.com/user-attachments/assets/9a66e699-6de2-433a-9db6-e81434aa4800" />
+
+
 ## Install
 
 Lazy:
